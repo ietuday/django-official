@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b1a12d20.chunk.css",
+    "main.js": "/static/js/main.b670738d.chunk.js",
+    "main.js.map": "/static/js/main.b670738d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2d7a304e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2d7a304e.js.map",
+    "static/js/2.dfbd3e81.chunk.js": "/static/js/2.dfbd3e81.chunk.js",
+    "static/js/2.dfbd3e81.chunk.js.map": "/static/js/2.dfbd3e81.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ebd3a3be255f7f6ceb1a3901f9dc9f04.js": "/precache-manifest.ebd3a3be255f7f6ceb1a3901f9dc9f04.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b1a12d20.chunk.css.map": "/static/css/main.b1a12d20.chunk.css.map",
+    "static/js/2.dfbd3e81.chunk.js.LICENSE.txt": "/static/js/2.dfbd3e81.chunk.js.LICENSE.txt",
+    "static/media/bg.jpeg": "/static/media/bg.a5baff81.jpeg",
+    "static/media/company.png": "/static/media/company.e93da896.png",
+    "static/media/intro_banner.png": "/static/media/intro_banner.50158c77.png",
+    "static/media/people.jpg": "/static/media/people.3abafbe4.jpg",
+    "static/media/product.png": "/static/media/product.82777c24.png",
+    "static/media/rapideraLogo.png": "/static/media/rapideraLogo.1df39954.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d7a304e.js",
+    "static/js/2.dfbd3e81.chunk.js",
+    "static/css/main.b1a12d20.chunk.css",
+    "static/js/main.b670738d.chunk.js"
+  ]
+}

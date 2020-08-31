@@ -1,0 +1,9 @@
+server {
+	listen 80;
+	server_name 3.101.47.250;
+	
+	location / {
+		include proxy_params;
+		proxy_pass http://unix:/home/ubuntu/AwsDemo/app.sock;
+	}
+}
